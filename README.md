@@ -19,7 +19,7 @@ Implementation and representation of different CPU Scheduling Algorithms using C
 ## Input format:
  See [test cases](./testcases/) folder for input format.   
 ## Outputs:
- Depending on input, the program will either output a Gnatt chart visual representation of the scheduling algorithm's results on the input processes, or it will output the resulting stats for the processes.
+ Depending on input, the program will either output a Gantt chart visual representation of the scheduling algorithm's results on the input processes, or it will output the resulting stats for the processes.
 ## Contributors:
  - [Mohamed Battawy](https://github.com/MohamedBattawy)
  - [Mohammad Helaly](https://github.com/MohammadHelaly)  
